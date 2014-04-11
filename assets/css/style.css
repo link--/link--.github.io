@@ -251,6 +251,14 @@ section {
     max-height:270px;
 }
 
+.float-right {
+	float:right;
+}
+
+.message-container {
+	padding:0px;
+}
+
 .title-text {
 	margin-left:15%;
 }
