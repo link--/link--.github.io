@@ -71,6 +71,11 @@ body {
 #wrap > .container {
   padding: 60px 15px 0;
 }
+
+#wrap > .message-container {
+  padding: 0px 15px 0;
+}
+
 .container .credit {
   margin: 20px 0;
 }
@@ -242,7 +247,6 @@ section {
 }
 
 .bg-4 {
-	padding-top:30px;
     background-color:#e6e6e6;
 }
 
@@ -259,9 +263,19 @@ section {
 	padding:0px;
 }
 
-.scholarship-text {
+.recog {
+	padding-left:20px;
+}
+
+.justify {
+	text-align:justify;
+}
+.scholarship-title {
 	margin-left:40%;
 }
 .title-text {
 	margin-left:15%;
+}
+.contact {
+	margin-left:19%;
 }
