@@ -209,7 +209,7 @@ section {
 }
 
 .bg-top {
-	background: url('http://techonomy.com/wp-content/uploads/2013/03/warrior.jpg') no-repeat center center fixed; 
+	background: url('../img/bg-top.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -218,7 +218,7 @@ section {
 
 
 .bg-1 {
-	background: url('http://upload.wikimedia.org/wikipedia/commons/e/e5/Padmasree_Warrior.jpg') no-repeat center center fixed; 
+	background: url('../img/bg-1.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -226,7 +226,7 @@ section {
 }
 
 .bg-2 {
-	background: url('http://www.bootply.com/assets/example/bg_suburb.jpg') no-repeat center center fixed; 
+	background: url('') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -234,7 +234,7 @@ section {
 }
 
 .bg-3 {
-	background: url('http://www.bootply.com/assets/example/bg_blueplane.jpg') no-repeat center center fixed; 
+	background: url('../img/bg-2.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -259,6 +259,9 @@ section {
 	padding:0px;
 }
 
+.scholarship-text {
+	margin-left:40%;
+}
 .title-text {
 	margin-left:15%;
 }
