@@ -250,3 +250,7 @@ section {
 	min-height:270px;
     max-height:270px;
 }
+
+.title-text {
+	margin-left:15%;
+}
