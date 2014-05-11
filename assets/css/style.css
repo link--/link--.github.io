@@ -222,23 +222,7 @@ section {
 }
 
 
-.bg-1 {
-	background: url('../img/bg-1.gif') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-}
-
 .bg-2 {
-	background: url('') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-}
-
-.bg-3 {
 	background: url('../img/bg-2.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -246,7 +230,23 @@ section {
   	background-size: cover;
 }
 
+.bg-3 {
+	background: url('../img/bg-3.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
 .bg-4 {
+	background: url('../img/bg-4.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.bg-4-color {
     background-color:#e6e6e6;
 }
 
