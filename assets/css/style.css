@@ -177,9 +177,9 @@ h1 {
 	border-width:0;
 }
 
-@media (max-width: 768px) {
-	header {
-	
+@media (max-width: 800px) {
+	.scholar {
+		margin-top: -10% !important;
 	}
 }
 
